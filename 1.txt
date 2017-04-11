@@ -7,3 +7,7 @@
   git push 将本地仓库修改推送到服务器上的仓库中
 
   comiit 是n将本地修改保存到本地仓库中
+
+
+  git  sourcetree 初步使用步骤
+  http://www.jianshu.com/p/be9f0484af9d
